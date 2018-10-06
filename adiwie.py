@@ -391,7 +391,7 @@ def helpmessage():
                     "╠ " + key + "SearchMusic 「Search」" + "\n" + \
                     "╠ " + key + "SearchLyric 「Search」" + "\n" + \
                     "╠ " + key + "SearchImage 「Search」" + "\n" + \
-                    "╚══[ PamujiAdi ]"
+                    "╚══[ BOT ]"
     return helpMessage
 
 def helptexttospeech():
@@ -453,7 +453,7 @@ def helptexttospeech():
                         "╠ " + key + "uk : Ukrainian" + "\n" + \
                         "╠ " + key + "vi : Vietnamese" + "\n" + \
                         "╠ " + key + "cy : Welsh" + "\n" + \
-                        "╚══[ PamujiAdi]" + "\n" + "\n\n" + \
+                        "╚══[ BOT ]" + "\n" + "\n\n" + \
                         "Contoh : " + key + "say-id Zero"
     return helpTextToSpeech
 
@@ -569,7 +569,7 @@ def helptranslate():
                     "╠ " + key + "zu : zulu" + "\n" + \
                     "╠ " + key + "fil : Filipino" + "\n" + \
                     "╠ " + key + "he : Hebrew" + "\n" + \
-                    "╚══[PamujiAdi]" + "\n" + "\n\n" + \
+                    "╚══[BOT]" + "\n" + "\n\n" + \
                     "Contoh : " + key + "tr-id Zero"
     return helpTranslate
 
@@ -744,7 +744,7 @@ def clientBot(op):
                                     client.sendMessage(to, str(ret_))
                                 except Exception as e:
                                     client.sendMessage(msg.to, str(e))
-# Pembatas Script #
+mimi
                             elif cmd == "crash":
                                 client.sendContact(to, "u1f41296217e740650e0448b96851a3e2',")
                             elif cmd.startswith("changename:"):
