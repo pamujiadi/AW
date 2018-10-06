@@ -1,0 +1,7 @@
+
+[ Rabu, 03 - Oktober - 2018 | 19:41:45 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Kamis, 04 - Oktober - 2018 | 04:33:29 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Kamis, 04 - Oktober - 2018 | 18:59:43 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Kamis, 04 - Oktober - 2018 | 19:35:01 ] encoding without a string argument
+[ Jumat, 05 - Oktober - 2018 | 01:15:59 ] 
+[ Jumat, 05 - Oktober - 2018 | 01:16:07 ] 
